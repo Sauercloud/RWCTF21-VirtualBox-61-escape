@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release Vulnerable|Win32'">
+    <SignMode>Off</SignMode>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug Vulnerable|Win32'">
+    <SignMode>Off</SignMode>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug Vulnerable|x64'">
+    <SignMode>TestSign</SignMode>
+    <TestCertificate>CN="WDKTestCert rwctf,132552277916592759" | 47ADE60A44785337654CF6C4F3B2427C5311690C</TestCertificate>
+  </PropertyGroup>
+</Project>
