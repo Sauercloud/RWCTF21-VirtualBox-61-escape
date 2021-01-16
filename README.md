@@ -14,6 +14,10 @@ This is our solution for RealWorld CTF's "Box Escape" challenge from the 2020/20
 
 We wrote a blogpost describing the vulnerabilities and our exploit techniques. You can find it [here](TODO).
 
+## How to protect yourself?
+
+Until the release build of VirtualBox is patched disable SCSI.
+
 ## Credits
 
 Writing this exploit was a joint effort of a bunch of people. 
