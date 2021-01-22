@@ -8,7 +8,8 @@
 
 ## What?
 
-This is our solution for RealWorld CTF's "Box Escape" challenge from the 2020/2021 quals. Currently a 0day but we'll add the CVE number once there is one.
+This is our solution for RealWorld CTF's "Box Escape" challenge from the 2020/2021 quals. ~~Currently a 0day but we'll add the CVE number once there is one.~~ CVE-2021-2119
+
 
 ## How does it work?
 
