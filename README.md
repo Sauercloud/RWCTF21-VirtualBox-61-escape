@@ -13,7 +13,7 @@ This is our solution for RealWorld CTF's "Box Escape" challenge from the 2020/20
 
 ## How does it work?
 
-We wrote a blogpost describing the vulnerabilities and our exploit techniques. You can find it [here](TODO).
+We wrote a blogpost describing the vulnerabilities and our exploit techniques. You can find it [here](https://secret.club/2021/01/14/vbox-escape.html).
 
 ## How to protect yourself?
 
